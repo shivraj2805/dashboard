@@ -25,7 +25,7 @@ const Menu = () => {
       console.log("User logged out");
     
       // Redirect to the login page
-      window.location.href = "http://localhost:3000";
+      window.location.href = "https://full-stack-trading-platform-frontend.onrender.com/";
     
   };
 
